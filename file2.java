@@ -1,2 +1,2 @@
-File 2 content
+This is the second code in the project
 
