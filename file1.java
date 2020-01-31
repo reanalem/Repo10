@@ -1,1 +1,1 @@
-File 1 content
+This is the first code in the local repo
